@@ -24,7 +24,7 @@ Each of these racks are driven by a cam and follower mechanism that pushes each 
 
 ![](README%20Images/pomoclock%20cams.png)
 
-![](README%20Images/CAM-breakdown)  
+![](README%20Images/CAM-breakdown.png)  
 
 The shaft is driven by a servo that is geared to it. 
 
